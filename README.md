@@ -1,3 +1,3 @@
 # README
 
- ## Bloccit: a Reddit replica to teach the fundamentals of web development and Rails.
+ ## Loggit: A Ruby on Rails application for sharing links and ideas on various topics with an online community. Sign up, find a topic that you want to walk about, and begin posting and commenting!
